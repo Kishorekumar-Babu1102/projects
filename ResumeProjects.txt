@@ -1,0 +1,11 @@
+Projects in this Repository:
+
+i) Automating VPN  Configuration
+
+ii) Desktop Application Development(Simple Text Editor) using Python [Tkinter library]
+
+iii) Serverless Application using AWS Cloud Platform
+
+iv) VLAN Configuration using Cisco Packet Tracer for Hotel and Hospital Management System.
+
+V) Content Management System Application Development[using Python, Tkinter for the GUI, and SQLite for the database]
