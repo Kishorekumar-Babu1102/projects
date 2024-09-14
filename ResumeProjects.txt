@@ -8,4 +8,4 @@ ii) Serverless Application using AWS Cloud Platform
 
 iii) VLAN Configuration using Cisco Packet Tracer for Hotel and Hospital Management System.
 
-iV) Content Management System Application Development[using Python, Tkinter for the GUI, and SQLite for the database]
+
