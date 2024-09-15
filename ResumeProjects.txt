@@ -8,4 +8,8 @@ ii) Serverless Application using AWS Cloud Platform
 
 iii) VLAN Configuration using Cisco Packet Tracer for Hotel and Hospital Management System.
 
+iv) Calculator application development using Python 
 
+v) Digital Clock pop-up development using python
+
+vi) To-do-List application development using python
